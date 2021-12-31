@@ -1,0 +1,3 @@
+i can not install prml liberary 
+so 
+i used sklearn liberary wich has same classes 
